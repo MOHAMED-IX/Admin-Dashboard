@@ -63,7 +63,7 @@ export default function Faq() {
             aria-controls="panel2-content"
             id="panel2-header"
           >
-            <Typography sx={{ fontWeight: "bold", fontSize: "18px" }} component="span">Why did you use @mui/x-data-grid?</Typography>
+            <Typography sx={{ fontWeight: "bold", fontSize: "18px" }} component="span">4. Why did you use @mui/x-data-grid?</Typography>
           </AccordionSummary>
           <AccordionDetails>
             <Typography>
